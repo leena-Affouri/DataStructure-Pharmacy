@@ -1,0 +1,3 @@
+C:/Users/ASUS STRIX G15/Desktop/second project/cmake-build-debug/CMakeFiles/second_project.dir
+C:/Users/ASUS STRIX G15/Desktop/second project/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/ASUS STRIX G15/Desktop/second project/cmake-build-debug/CMakeFiles/rebuild_cache.dir

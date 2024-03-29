@@ -1,0 +1,19 @@
+Amox-Clav:Amoxicillin and Clavulanic acid:Antibiotic:bronchitis,otitis media:11/2024:9:Hebron Medical Supplies
+Amoxil:Amoxicillin:Antibiotic:ear infection,urinary tract infection:5/2025:8:Palestine Medical Supplies
+Augmentin:Amoxicillin and Clavulanic acid:Antibiotic:sinusitis,pneumonia:9/2026:12:Ramallah Medical Supplies
+Azicare 500:Azithromycin:Antibiotic:pain,tonsillitis,skin allergy:3/2025:11:Pharmacare PLC
+Azimex 500:Azithromycin:Antibiotic:pneumonia,tonsillitis,skin allergy:3/2025:7:Birzeit Pharmaceutical Company
+Cefdinir:Cefdinir:Antibiotic:bronchitis,otitis media:4/2025:9:Salfit Pharmaceuticals
+Cefixime:Cefixime:Antibiotic:gonorrhea,typhoid fever:3/2026:7:Qalqilya Medical Supplies
+Cefpodoxime:Cefpodoxime:Antibiotic:pneumonia,gonorrhea:8/2024:7:Jerusalem Pharmaceuticals
+Ceftazidime:Ceftazidime:Antibiotic:urinary tract infection,sepsis:6/2026:6:Nablus Pharmaceuticals
+Ceftriaxone:Ceftriaxone:Antibiotic:pneumonia,meningitis:5/2024:8:Tubas Medical Supplies
+Cefuroxime:Cefuroxime:Antibiotic:skin infection,sinusitis:7/2025:10:Hebron Medical Supplies
+Cephalexin:Cephalexin:Antibiotic:skin infection,upper respiratory infection:2/2024:10:Tulkarm Pharmaceuticals
+Ciprofloxacin:Ciprofloxacin:Antibiotic:respiratory infection,urinary tract infection:6/2024:10:Al-Quds Pharmaceuticals
+Dolo-650:Ibuprofen:Pain reliever:headache,toothache,menstrual cramps:4/2024:5:Damascus Pharmaceuticals
+Metronidazole:Metronidazole:Antibiotic:bacterial vaginosis,giardiasis:1/2025:6:Jenin Medical Supplies
+Paramol:Paracetamol:Pain killer:fever,pain:3/2026:9:Beit Jala Pharmaceutical
+Proxen:Naproxen:Pain reliever:rheumatoid arthritis,osteoarthritis:8/2024:6:Bethlehem Medical Supplies
+Vibramycin:Doxycycline:Antibiotic:acne,gonorrhea,chlamydia:12/2024:8:Jerusalem Pharmaceuticals
+Zithromax:Azithromycin:Antibiotic:strep throat,skin infection:10/2025:7:Nablus Pharmaceuticals

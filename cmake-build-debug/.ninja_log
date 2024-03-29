@@ -1,0 +1,15 @@
+# ninja log v5
+1	399	6966030822395760	CMakeFiles/second_project.dir/main.c.obj	30964ebd8d1c9f6f
+400	964	6966030828003692	second_project.exe	56d0aad9a53dadf7
+3	364	6966031406550288	CMakeFiles/second_project.dir/main.c.obj	30964ebd8d1c9f6f
+364	904	6966031411925898	second_project.exe	56d0aad9a53dadf7
+3	498	6966031887778642	CMakeFiles/second_project.dir/main.c.obj	30964ebd8d1c9f6f
+499	1090	6966031893666037	second_project.exe	56d0aad9a53dadf7
+2	430	6966033663021256	CMakeFiles/second_project.dir/main.c.obj	30964ebd8d1c9f6f
+431	1150	6966033670162176	second_project.exe	56d0aad9a53dadf7
+2	483	6966035238012637	CMakeFiles/second_project.dir/main.c.obj	30964ebd8d1c9f6f
+494	1166	6966035244872204	second_project.exe	56d0aad9a53dadf7
+3	557	6966037221094171	CMakeFiles/second_project.dir/main.c.obj	30964ebd8d1c9f6f
+557	1190	6966037227411249	second_project.exe	56d0aad9a53dadf7
+3	353	6966045242025223	CMakeFiles/second_project.dir/main.c.obj	30964ebd8d1c9f6f
+353	891	6966045247400007	second_project.exe	56d0aad9a53dadf7
